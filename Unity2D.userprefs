@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Main.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Main.cs" Line="67" Column="3" />
+      <File FileName="Assets\Scripts\MultipeScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HandlerButton.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Project Game\Unity2D\Assets\Scripts\HandlerButton.cs" line="13" />
+      <Breakpoint file="D:\Project Game\Unity2D\Assets\Scripts\Main.cs" line="70" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
